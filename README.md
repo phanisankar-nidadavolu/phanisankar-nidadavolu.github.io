@@ -39,18 +39,25 @@ Actively looking for a Research Scientist role in industry.
      
      Thesis Advisor: Prof. Prem Kumar Kalra
 
+### Internships
+1. **Research Intern, Spoken Communications** 
 
+      Reporting Manager: [Yishay Carmiel](https://www.linkedin.com/in/yishay-carmiel-6469482/), Oct-Dec 2017
+2. **Research Intern at Apple Inc**
+   
+      IMG Audio group, June-Aug 2015
+    
 ### Research Workshops
 
-* **JSALT 2019** - Speaker Detection in Adverse Scenarios with a Single Microphone [webpage](https://www.clsp.jhu.edu/workshops/19-workshop/speaker-detection-in-adverse-scenarios-with-a-single-microphone/)
+* **JSALT 2019** - Speaker Detection in Adverse Scenarios with a Single Microphone [homepage](https://www.clsp.jhu.edu/workshops/19-workshop/speaker-detection-in-adverse-scenarios-with-a-single-microphone/)
 
      Worked on unsupervised feature enhancement of reverberant/noisy speech using real data from target domain to improve the robustness of speaker recognition systems. Work submitted to [ICASSP 2020](https://arxiv.org/abs/1910.11915). 
      
-* **HLTCOE-SCALE 2017** - Speaker Recognition in Multimedia Data [webpage](https://hltcoe.jhu.edu/research/scale/scale-2017/)
+* **HLTCOE-SCALE 2017** - Speaker Recognition in Multimedia Data [homepage](https://hltcoe.jhu.edu/research/scale/scale-2017/)
 
      Worked on unsupervised channel adaptation (multi-media to telephone domain) using adversarial learning. Work submitted to [ICASSP 2019](https://ieeexplore.ieee.org/abstract/document/8683055). 
      
-* **JSALT 2016** - Remote Monitoring of Neurodegeneration through Speech [webpage](https://www.clsp.jhu.edu/workshops/16-workshop/remote-monitoring-of-neurodegeneration-through-speech/)
+* **JSALT 2016** - Remote Monitoring of Neurodegeneration through Speech [homepage](https://www.clsp.jhu.edu/workshops/16-workshop/remote-monitoring-of-neurodegeneration-through-speech/)
 
      Worked on detecting presence of Alzheimer’s disease (AD) and Parkinson’s disease (PD) from i-vectors. Worked on building and adapting Automatic Speech Recognition (ASR) systems for the tasks. 
 
