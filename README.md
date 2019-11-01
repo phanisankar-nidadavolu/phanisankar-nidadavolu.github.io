@@ -92,9 +92,9 @@ Complete list of my publications can be found in my [Google Scholar Profile](htt
 
 * **Preprint**
 
-     1. Phani Sankar Nidadavolu et.al. "Low-Resource Domain Adaptation for Speaker Recognition Using Cycle-GANs". Accepted at ASRU 2019 [arxiv](https://arxiv.org/abs/1910.11909)
-     2. Phani Sankar Nidadavolu et.al. "Unsupervised Feature Enhancement for speaker verification". Submitted to ICASSP 2020 [arxiv](https://arxiv.org/abs/1910.11915)
-     3. Saurabh Kataria, Phani Sankar Nidadavolu et. al. "Feature Enhancement with Deep Feature Losses for Speaker Verification". Submitted to ICASSP 2020 [arxiv](https://arxiv.org/abs/1910.11905)
+     1. Phani Sankar Nidadavolu et.al. "Low-Resource Domain Adaptation for Speaker Recognition Using Cycle-GANs". Accepted at ASRU 2019 [[arxiv]](https://arxiv.org/abs/1910.11909)
+     2. Phani Sankar Nidadavolu et.al. "Unsupervised Feature Enhancement for speaker verification". Submitted to ICASSP 2020 [[arxiv]](https://arxiv.org/abs/1910.11915)
+     3. Saurabh Kataria, Phani Sankar Nidadavolu et. al. "Feature Enhancement with Deep Feature Losses for Speaker Verification". Submitted to ICASSP 2020 [[arxiv]](https://arxiv.org/abs/1910.11905)
 
 
 ### Work Experience
@@ -106,7 +106,15 @@ Complete list of my publications can be found in my [Google Scholar Profile](htt
 
       Dar Al-Handasah Consultants, Pune, India
 
-### Teaching
+### Teaching Assistant
+
+1. EN.520.612 Machine Learning for Signal Processing  - Ongoing
+
+2. EN.520.123 Computational Modeling for Electrical and Computer Engineering - Spring 2017 & Spring 2019
+
+3. EN.525.627 Digital Signal Processing - Fall 2016 
+
+4. EN.520.515 Processing of Audio and Visual Signals - Fall 2014
 
 
 ### Contact Information
