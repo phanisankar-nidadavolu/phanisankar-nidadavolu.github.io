@@ -72,12 +72,18 @@ Actively looking for a Research Scientist role in industry.
      Worked on developing a speaker recognition system with i-vectors trained on cepstral coefficients extracted from smoothed sub- band instantaneous frequencies (IFCC) features. Work was done in Speech and Image Processing (SIP) Lab, IIT Hyderabad. 
 
 
-### Publications
+### Selected Publications
+
+Complete list of my publications can be found in my [Google Scholar Profile](https://scholar.google.com/citations?user=v5-ThlEAAAAJ&hl=en&oi=ao)
+
+   1. Phani Sankar Nidadavolu, Jesús Villalba, Najim Dehak. "Cycle-GANs for Domain Adaptation of Acoustic Features for Speaker Recognition." ICASSP 2019.  [[pdf]](https://ieeexplore.ieee.org/document/8683055)
+   2. Phani Sankar Nidadavolu, Vicente Iglesias, Jesús Villalba, Najim Dehak. "Investigation on Neural Bandwidth Extension of Telephone Speech for Improved Speaker Recognition." ICASSP 2019. [[pdf]](https://ieeexplore.ieee.org/document/8682992)
+   3. Phani Sankar Nidadavolu, Cheng-I Lai, Jesús Villalba, Najim Dehak. "Investigation on Bandwidth Extension for Speaker Recognition." Interspeech 2018. [[pdf]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2394.pdf)
+   4. Feipeng Li, Phani Sankar Nidadavolu, and Hynek Hermansky. "A Long, Deep and Wide Artificial Neural Net for Robust Speech Recognition In Unknown Noise." In Interspeech 2015. [[pdf]](https://www.isca-speech.org/archive/archive_papers/interspeech_2014/i14_0358.pdf)
 
 
-List of my publications can be found in my [Google Scholar](https://scholar.google.com/citations?user=v5-ThlEAAAAJ&hl=en&oi=ao)
 
-* Preprint
+* **Preprint**
 
      1. Phani Sankar Nidadavolu et.al. "Low-Resource Domain Adaptation for Speaker Recognition Using Cycle-GANs". Accepted at ASRU 2019 [arxiv](https://arxiv.org/abs/1910.11909)
      2. Phani Sankar Nidadavolu et.al. "Unsupervised Feature Enhancement for speaker verification". Submitted to ICASSP 2020 [arxiv](https://arxiv.org/abs/1910.11915)
