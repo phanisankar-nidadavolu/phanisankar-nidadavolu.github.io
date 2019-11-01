@@ -99,6 +99,12 @@ Complete list of my publications can be found in my [Google Scholar Profile](htt
 
 ### Work Experience
 
+1. 	**Project Associate, June 2012-May 2013**
+
+       Speech and Image Processing (SIP) Lab, IIT Hyderabad, India 
+2. **Design Engineer, Aug 2009-June 2012**
+
+      Dar Al-Handasah Consultants, Pune, India
 
 ### Teaching
 
