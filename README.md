@@ -24,25 +24,19 @@ Actively looking for a Research Scientist role in industry.
 
 ### Education
 
-[Johns Hopkins University](https://www.jhu.edu), Baltimore, MD, USA
-Ph.D. Candidate in Electrical Engineering (2013 - present)
+* [Johns Hopkins University](https://www.jhu.edu), Baltimore, MD, USA
 
-Thesis Advisors: [Najim Dehak](https://engineering.jhu.edu/ece/faculty/najim-dehak/) and [Jesús Villalba](https://www.clsp.jhu.edu/faculty/jesus-villalba/)
-
-Thesis Topic: Domain Adaptation Techniques for Speaker Recognition
-
-Master of Science in Engineering (MSE) (2013-2019)
-
-Specialization: Electrical Engineering
+      Ph.D. Candidate in Electrical Engineering (2013 - present)
+      Master of Science in Engineering (MSE) (2013-2019) with specialization in Electrical Engineering
 
 
-[Indian Institute of Technology (IIT) Kanpur](https://www.iitk.ac.in/ee/)
+* [Indian Institute of Technology (IIT) Kanpur](https://www.iitk.ac.in/ee/)
 
-Master of Technology (MTech) (2007-2009) in Electrical Engineering
+      Master of Technology (MTech) (2007-2009) in Electrical Engineering
 
-Thesis Topic: Fault Diagnosis of Internal Combustion Engines Using Neural Networks
+      Thesis Topic: Fault Diagnosis of Internal Combustion Engines Using Neural Networks
 
-Thesis Advisor: Prof. Prem Kumar Kalra
+      Thesis Advisor: Prof. Prem Kumar Kalra
 
 
 ### Research Workshops
