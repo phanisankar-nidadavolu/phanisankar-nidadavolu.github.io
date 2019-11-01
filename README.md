@@ -58,16 +58,16 @@ Actively looking for a Research Scientist role in industry.
 
 ### Other Research Projects
 
-* *Robust Automatic Transcription of Speech (RATS)*: Funded by DARPA (2013-2014)
+* **Robust Automatic Transcription of Speech (RATS)**: Funded by DARPA (2013-2014)
 
      Worked on developing a Long, Deep and Wide Neural Network (LDWNN) for improving the robustness of ASR acoustic models to noisy and degraded speech. Work submitted to [INTERSPEECH 2014](https://www.isca-speech.org/archive/archive_papers/interspeech_2014/i14_0358.pdf "LDWNN")
 
-* *NIST 2016 Speaker Recognition Evaluation*
+* **NIST 2016 Speaker Recognition Evaluation**
 
      Worked on developing a state-of-the-art speaker recognition system in collaboration with MIT Lincoln Laboratory. Work submitted to [INTERSPEECH 2017](http://mallidi.github.io/pdfs/Pedro_NIST-SRE2016_sys_paper_Interspeech2017.pdf)
 
 
-* *NIST 2012 Speaker Recognition Evaluation*
+* **NIST 2012 Speaker Recognition Evaluation**
 
      Worked on developing a speaker recognition system with i-vectors trained on cepstral coefficients extracted from smoothed sub- band instantaneous frequencies (IFCC) features. Work was done in Speech and Image Processing (SIP) Lab, IIT Hyderabad. 
 
@@ -77,7 +77,11 @@ Actively looking for a Research Scientist role in industry.
 
 List of my publications can be found in my [Google Scholar](https://scholar.google.com/citations?user=v5-ThlEAAAAJ&hl=en&oi=ao)
 
-Arxiv links for my publications which are in preprint or under review
+* Preprint
+
+     1. Phani Sankar Nidadavolu et.al. "Low-Resource Domain Adaptation for Speaker Recognition Using Cycle-GANs". Accepted at ASRU 2019 [arxiv](https://arxiv.org/abs/1910.11909)
+     2. Phani Sankar Nidadavolu et.al. "Unsupervised Feature Enhancement for speaker verification". Submitted to ICASSP 2020 [arxiv](https://arxiv.org/abs/1910.11915)
+     3. Saurabh Kataria, Phani Sankar Nidadavolu et. al. "Feature Enhancement with Deep Feature Losses for Speaker Verification". Submitted to ICASSP 2020 [arxiv](https://arxiv.org/abs/1910.11905)
 
 
 ### Work Experience
@@ -87,4 +91,4 @@ Arxiv links for my publications which are in preprint or under review
 
 
 ### Contact Information
-   Can be found on my [Linkedin](https://www.linkedin.com/in/phanisankar-nidadavolu/)
+   snidada1 at jhu dot edu
