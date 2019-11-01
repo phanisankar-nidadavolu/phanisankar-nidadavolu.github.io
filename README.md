@@ -31,7 +31,7 @@ Actively looking for a Research Scientist role in industry.
      Master of Science in Engineering (MSE) (2013-2019) with specialization in Electrical Engineering
 
 
-* [Indian Institute of Technology (IIT) Kanpur](https://www.iitk.ac.in/ee/)
+* [Indian Institute of Technology (IIT) Kanpur](https://www.iitk.ac.in/ee/), India
 
      Master of Technology (MTech) (2007-2009) in Electrical Engineering
      
@@ -42,23 +42,34 @@ Actively looking for a Research Scientist role in industry.
 
 ### Research Workshops
 
-2019 Sixth Frederick Jelinek Memorial Summer Workshop [JSALT 2019]()
+* **JSALT 2019** - Speaker Detection in Adverse Scenarios with a Single Microphone [webpage](https://www.clsp.jhu.edu/workshops/19-workshop/speaker-detection-in-adverse-scenarios-with-a-single-microphone/)
+
+     Worked on unsupervised feature enhancement of reverberant/noisy speech using real data from target domain to improve the robustness of speaker recognition systems. Work submitted to [ICASSP 2020](https://arxiv.org/abs/1910.11915). 
+     
+* **HLTCOE-SCALE 2017** - Speaker Recognition in Multimedia Data [webpage](https://hltcoe.jhu.edu/research/scale/scale-2017/)
+
+     Worked on unsupervised channel adaptation (multi-media to telephone domain) using adversarial learning. Work submitted to [ICASSP 2019](https://ieeexplore.ieee.org/abstract/document/8683055). 
+     
+* **JSALT 2016** - Remote Monitoring of Neurodegeneration through Speech [webpage](https://www.clsp.jhu.edu/workshops/16-workshop/remote-monitoring-of-neurodegeneration-through-speech/)
+
+     Worked on detecting presence of Alzheimer’s disease (AD) and Parkinson’s disease (PD) from i-vectors. Worked on building and adapting Automatic Speech Recognition (ASR) systems for the tasks. 
+
 
 
 ### Other Research Projects
 
 * *Robust Automatic Transcription of Speech (RATS)*: Funded by DARPA (2013-2014)
 
-Worked on developing a Long, Deep and Wide Neural Network (LDWNN) for improving the robustness of ASR acoustic models to noisy and degraded speech. Work submitted to [INTERSPEECH 2014](https://www.isca-speech.org/archive/archive_papers/interspeech_2014/i14_0358.pdf "LDWNN")
+     Worked on developing a Long, Deep and Wide Neural Network (LDWNN) for improving the robustness of ASR acoustic models to noisy and degraded speech. Work submitted to [INTERSPEECH 2014](https://www.isca-speech.org/archive/archive_papers/interspeech_2014/i14_0358.pdf "LDWNN")
 
 * *NIST 2016 Speaker Recognition Evaluation*
 
-Worked on developing a state-of-the-art speaker recognition system in collaboration with MIT Lincoln Laboratory. Work submitted to [INTERSPEECH 2017](http://mallidi.github.io/pdfs/Pedro_NIST-SRE2016_sys_paper_Interspeech2017.pdf)
+     Worked on developing a state-of-the-art speaker recognition system in collaboration with MIT Lincoln Laboratory. Work submitted to [INTERSPEECH 2017](http://mallidi.github.io/pdfs/Pedro_NIST-SRE2016_sys_paper_Interspeech2017.pdf)
 
 
 * *NIST 2012 Speaker Recognition Evaluation*
 
-Worked on developing a speaker recognition system with i-vectors trained on cepstral coefficients extracted from smoothed sub- band instantaneous frequencies (IFCC) features. Work was done in Speech and Image Processing (SIP) Lab, IIT Hyderabad. 
+     Worked on developing a speaker recognition system with i-vectors trained on cepstral coefficients extracted from smoothed sub- band instantaneous frequencies (IFCC) features. Work was done in Speech and Image Processing (SIP) Lab, IIT Hyderabad. 
 
 
 ### Publications
