@@ -26,17 +26,18 @@ Actively looking for a Research Scientist role in industry.
 
 * [Johns Hopkins University](https://www.jhu.edu), Baltimore, MD, USA
 
-      Ph.D. Candidate in Electrical Engineering (2013 - present)
-      Master of Science in Engineering (MSE) (2013-2019) with specialization in Electrical Engineering
+     Ph.D. Candidate in Electrical Engineering (2013 - present)
+     
+     Master of Science in Engineering (MSE) (2013-2019) with specialization in Electrical Engineering
 
 
 * [Indian Institute of Technology (IIT) Kanpur](https://www.iitk.ac.in/ee/)
 
-      Master of Technology (MTech) (2007-2009) in Electrical Engineering
-
-      Thesis Topic: Fault Diagnosis of Internal Combustion Engines Using Neural Networks
-
-      Thesis Advisor: Prof. Prem Kumar Kalra
+     Master of Technology (MTech) (2007-2009) in Electrical Engineering
+     
+     Thesis Topic: Fault Diagnosis of Internal Combustion Engines Using Neural Networks
+     
+     Thesis Advisor: Prof. Prem Kumar Kalra
 
 
 ### Research Workshops
@@ -46,16 +47,16 @@ Actively looking for a Research Scientist role in industry.
 
 ### Other Research Projects
 
-*Robust Automatic Transcription of Speech (RATS)*: Funded by DARPA (2013-2014)
+* *Robust Automatic Transcription of Speech (RATS)*: Funded by DARPA (2013-2014)
 
 Worked on developing a Long, Deep and Wide Neural Network (LDWNN) for improving the robustness of ASR acoustic models to noisy and degraded speech. Work submitted to [INTERSPEECH 2014](https://www.isca-speech.org/archive/archive_papers/interspeech_2014/i14_0358.pdf "LDWNN")
 
-*NIST 2016 Speaker Recognition Evaluation*
+* *NIST 2016 Speaker Recognition Evaluation*
 
 Worked on developing a state-of-the-art speaker recognition system in collaboration with MIT Lincoln Laboratory. Work submitted to [INTERSPEECH 2017](http://mallidi.github.io/pdfs/Pedro_NIST-SRE2016_sys_paper_Interspeech2017.pdf)
 
 
-*NIST 2012 Speaker Recognition Evaluation*
+* *NIST 2012 Speaker Recognition Evaluation*
 
 Worked on developing a speaker recognition system with i-vectors trained on cepstral coefficients extracted from smoothed sub- band instantaneous frequencies (IFCC) features. Work was done in Speech and Image Processing (SIP) Lab, IIT Hyderabad. 
 
