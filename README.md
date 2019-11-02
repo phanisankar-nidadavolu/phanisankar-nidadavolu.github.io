@@ -16,6 +16,9 @@ Speaker Recognition and Diarization, Automatic Speech Recognition, Machine Learn
   
   [Github](https://github.com/phanisankar-nidadavolu)
   
+
+### Contact Information
+   snidada1 at jhu dot edu
   
 ### News
 
@@ -117,5 +120,9 @@ Complete list of my publications can be found in my [Google Scholar Profile](htt
 4. EN.520.515 Processing of Audio and Visual Signals - Fall 2014
 
 
-### Contact Information
-   snidada1 at jhu dot edu
+### Skills
+   Programming Languages:   Python, C++ 
+   
+   Tools/Frameworks:        Kaldi, PyTorch, Keras, Theano, SciKit, HTK, Matlab, git
+
+
